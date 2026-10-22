@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="640" viewBox="0 0 460 320">
+<defs><clipPath id="c"><rect width="460" height="320"/></clipPath></defs>
+<g clip-path="url(#c)">
+<circle cx="240" cy="230" r="200" fill="#D7EFEB"/>
+<ellipse cx="160" cy="300" rx="90" ry="70" fill="#E9A15B"/>
+<ellipse cx="160" cy="305" rx="45" ry="45" fill="#F7E3CC"/>
+<ellipse cx="95" cy="150" rx="30" ry="62" fill="#9A5B2E" transform="rotate(18 95 150)"/>
+<ellipse cx="225" cy="150" rx="30" ry="62" fill="#9A5B2E" transform="rotate(-18 225 150)"/>
+<circle cx="160" cy="170" r="72" fill="#E9A15B"/>
+<ellipse cx="160" cy="205" rx="40" ry="32" fill="#F7E3CC"/>
+<circle cx="133" cy="160" r="9" fill="#1E2A2B"/><circle cx="136" cy="157" r="3" fill="#FFFFFF"/>
+<circle cx="187" cy="160" r="9" fill="#1E2A2B"/><circle cx="190" cy="157" r="3" fill="#FFFFFF"/>
+<ellipse cx="160" cy="192" rx="13" ry="9" fill="#1E2A2B"/>
+<path d="M146 210 Q160 222 174 210" fill="none" stroke="#1E2A2B" stroke-width="3" stroke-linecap="round"/>
+<path d="M152 216 Q160 236 168 216 Z" fill="#E7666B"/>
+<rect x="110" y="236" width="100" height="14" rx="7" fill="#0F8A7E"/>
+<circle cx="160" cy="258" r="11" fill="#F2B544"/>
+<ellipse cx="335" cy="300" rx="72" ry="60" fill="#5D6A73"/>
+<path d="M282 150 L292 82 L330 128 Z" fill="#5D6A73"/>
+<path d="M388 150 L378 82 L340 128 Z" fill="#5D6A73"/>
+<path d="M292 140 L297 104 L318 128 Z" fill="#F2B6B8"/>
+<path d="M378 140 L373 104 L352 128 Z" fill="#F2B6B8"/>
+<circle cx="335" cy="180" r="62" fill="#5D6A73"/>
+<ellipse cx="335" cy="208" rx="30" ry="22" fill="#C9D2D6"/>
+<ellipse cx="312" cy="172" rx="9" ry="11" fill="#F2B544"/><ellipse cx="312" cy="172" rx="3" ry="9" fill="#1E2A2B"/>
+<ellipse cx="358" cy="172" rx="9" ry="11" fill="#F2B544"/><ellipse cx="358" cy="172" rx="3" ry="9" fill="#1E2A2B"/>
+<path d="M328 198 L342 198 L335 206 Z" fill="#E7666B"/>
+<path d="M335 206 Q328 216 320 212 M335 206 Q342 216 350 212" fill="none" stroke="#1E2A2B" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M300 200 L270 194 M300 207 L268 210 M370 200 L400 194 M370 207 L402 210" stroke="#1E2A2B" stroke-width="2" stroke-linecap="round"/>
+</g>
+</svg>

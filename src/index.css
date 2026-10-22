@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-main-green: #0F8A7E;
+  --color-hero: #F3FAF8;
+  --color-texto-principal: #1E2A2B;
+  --color-texto-secundario: #4A5859;
+}
